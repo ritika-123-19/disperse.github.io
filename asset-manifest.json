@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//validate-input-editor/static/css/main.cd4d5078.css",
-    "main.js": "//validate-input-editor/static/js/main.8529f01a.js",
-    "static/js/787.d001b093.chunk.js": "//validate-input-editor/static/js/787.d001b093.chunk.js",
-    "index.html": "//validate-input-editor/index.html",
-    "main.cd4d5078.css.map": "//validate-input-editor/static/css/main.cd4d5078.css.map",
-    "main.8529f01a.js.map": "//validate-input-editor/static/js/main.8529f01a.js.map",
-    "787.d001b093.chunk.js.map": "//validate-input-editor/static/js/787.d001b093.chunk.js.map"
+    "main.css": "/validate-input-editor/static/css/main.cd4d5078.css",
+    "main.js": "/validate-input-editor/static/js/main.b5bf7e6c.js",
+    "static/js/787.d001b093.chunk.js": "/validate-input-editor/static/js/787.d001b093.chunk.js",
+    "index.html": "/validate-input-editor/index.html",
+    "main.cd4d5078.css.map": "/validate-input-editor/static/css/main.cd4d5078.css.map",
+    "main.b5bf7e6c.js.map": "/validate-input-editor/static/js/main.b5bf7e6c.js.map",
+    "787.d001b093.chunk.js.map": "/validate-input-editor/static/js/787.d001b093.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd4d5078.css",
-    "static/js/main.8529f01a.js"
+    "static/js/main.b5bf7e6c.js"
   ]
 }
