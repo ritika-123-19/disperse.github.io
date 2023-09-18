@@ -68,7 +68,7 @@ const Disperse = () => {
       }
     }
     setError(error);
-    if (error != "") {
+    if (error !== "") {
       setShowDuplicateButtons(true);
     }
   };
