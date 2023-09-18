@@ -1,0 +1,118 @@
+.disperse-container {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+h4,
+.note-text {
+  color: slategray;
+  text-align: left;
+  font-weight: 600;
+}
+
+.input-editor {
+  display: flex;
+  font-family: monospace;
+  width: inherit;
+  height: 265px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.line-numbers {
+  padding: 15px;
+  background-color: #dedcdc;
+  border-right: 1px solid #bdbdbd;
+  text-align: right;
+}
+
+.line-number {
+  padding: 0px;
+  color: #777;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.address-input {
+  flex: 1 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+  resize: none;
+  background-color: #ebebeb;
+  color: #141414;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.duplicate-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.duplicate-btns {
+  display: flex;
+  align-items: center;
+}
+
+.duplicate-text,
+.or-sign {
+  color: red;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.keepFirstOneBtn,
+.combineAmountBtn {
+  background: none;
+  border: none;
+  color: red;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.nextBtn {
+  font-weight: 600;
+  height: 40px;
+  background-color: #2f2fa7;
+  width: 100%;
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.nextBtn:hover {
+  background-color: #703fc0;
+}
+.nextBtn:active {
+  transform: scale(0.98);
+  background-color: #896bb8;
+}
+.error {
+  padding: 8px 8px;
+  color: red;
+  display: flex;
+  border: 1.5px solid red;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  align-items: center;
+}
+
+i {
+  margin-right: 8px;
+  align-self: center;
+}
+
+span {
+  white-space: pre-line;
+  margin-left: 20px;
+}
